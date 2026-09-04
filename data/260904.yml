@@ -7,7 +7,7 @@ about:
   head: 07c2f50
   archived: false
   latestVersion: v0.4.3
-  collectedAt: 2026-09-04T19:22:28Z
+  collectedAt: 2026-09-04T21:14:09Z
 timeline:
   created: 2020-01-19
   lastCommit: 2025-02-18
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 548
   watcher: 4
-  fork: 14
+  fork: 15
   release: 20
   contributor: 6
   pullRequest: 160
@@ -81,6 +81,34 @@ total:
   openIssue: 17
   commit: 387
 ---
+path: /home/runner/.x-repo/github.com/foriequal0/git-trim
+collectedAt: 2026-09-04T21:14:10Z
+loc:
+  Rust:
+    code: 5360
+    comments: 24
+    blanks: 576
+    files: 25
+  Toml:
+    code: 36
+    comments: 1
+    blanks: 6
+    files: 1
+  Sh:
+    code: 15
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 97
+    blanks: 56
+    files: 1
+total:
+  code: 5417
+  comments: 174
+  blanks: 643
+  files: 28
 ---
 date: "2026-08-24"
 repo:
