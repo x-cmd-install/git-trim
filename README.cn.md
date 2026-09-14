@@ -46,7 +46,7 @@ x install git-trim
 
 ## 流行度
 
-- **Star**: 547 · **Fork**: 15 · **开放 issue**: 60 · **贡献者**: 6
+- **Star**: 548 · **Fork**: 15 · **开放 issue**: 60 · **贡献者**: 6
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install git-trim
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 0 | 2 | 3 | 1 | 3 | 9 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 0 | 2 | 3 | 1 | 3 | 9 |
 
 ## Release 资产
 
@@ -70,15 +70,6 @@ x install git-trim
 | [git-trim-linux-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-linux-v0.4.3.tgz) | 2.2 MiB | `native/unknown` |
 | [git-trim-mac-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-mac-v0.4.3.tgz) | 1.3 MiB | `native/unknown` |
 | [git-trim-win-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-win-v0.4.3.tgz) | 1.4 MiB | `native/unknown` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/git-trim) 上共有 **9** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.4.4` | ✅ latest |
-| Nix unstable | `0.4.4` | ✅ latest |
 
 ## 改进这些数据
 
@@ -89,4 +80,4 @@ git-trim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:25:34Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:37:02Z._
