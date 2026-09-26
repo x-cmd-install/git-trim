@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2266294,
       "digest": null,
-      "download_count": 3993,
+      "download_count": 3995,
       "created_at": "2022-12-23T17:25:42Z",
       "updated_at": "2022-12-23T17:25:43Z",
       "browser_download_url": "https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-linux-v0.4.3.tgz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1327657,
       "digest": null,
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2022-12-23T17:25:43Z",
       "updated_at": "2022-12-23T17:25:44Z",
       "browser_download_url": "https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-mac-v0.4.3.tgz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1504600,
       "digest": null,
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2022-12-23T17:25:44Z",
       "updated_at": "2022-12-23T17:25:44Z",
       "browser_download_url": "https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-win-v0.4.3.tgz"
