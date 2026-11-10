@@ -23,16 +23,6 @@ Total: **5,411** lines of code across **28** files in the top 5 languages.
 | Sh | 15 | 1 | 1 | 1 |
 | Markdown | 0 | 97 | 56 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **2.9 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (1/10) — Found 1/10 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/foriequal0/git-trim>
@@ -56,12 +46,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 0 | 2 | 3 | 1 | 3 | 9 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 0 | 2 | 3 | 1 | 3 | 9 |
 
 ## Release assets
 
@@ -89,4 +79,4 @@ Install metadata for git-trim lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:16:03Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:51:55Z._
