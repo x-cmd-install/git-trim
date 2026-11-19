@@ -14,14 +14,24 @@ x install git-trim
 
 ## Code insight
 
-Total: **5,411** lines of code across **28** files in the top 5 languages.
+Total: **5,428** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,360 | 24 | 576 | 25 |
+| Rust | 5,377 | 20 | 578 | 25 |
 | Toml | 36 | 1 | 6 | 1 |
 | Sh | 15 | 1 | 1 | 1 |
 | Markdown | 0 | 97 | 56 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.8 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -31,27 +41,27 @@ Total: **5,411** lines of code across **28** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.3` (2022-12-23)
-- **Last commit**: 2025-02-18
+- **Last commit**: 2026-11-17
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 548 · **Forks**: 15 · **Open issues**: 61 · **Contributors**: 6
+- **Stars**: 551 · **Forks**: 15 · **Open issues**: 61 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 137 · **Open PRs**: 5 · **Closed issues**: 43 · **Open issues**: 18 · **Commits**: 387
+- **Releases**: 20 · **Merged PRs**: 139 · **Open PRs**: 1 · **Closed issues**: 44 · **Open issues**: 17 · **Commits**: 403
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-11-21 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last720d | 2024-11-26 | 0 | 2 | 4 | 1 | 3 | 9 |
+| 30d | 2026-10-20 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last60d | 2026-09-20 | 0 | 2 | 0 | 1 | 0 | 14 |
+| 90d | 2026-08-21 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last180d | 2026-05-23 | 0 | 2 | 0 | 1 | 0 | 14 |
+| 360d | 2025-11-24 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last720d | 2024-11-29 | 0 | 4 | 0 | 2 | 2 | 25 |
 
 ## Release assets
 
@@ -79,4 +89,4 @@ Install metadata for git-trim lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:36:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:35:04Z._
