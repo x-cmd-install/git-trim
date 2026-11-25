@@ -46,7 +46,7 @@ x install git-trim
 
 ## 流行度
 
-- **Star**: 550 · **Fork**: 15 · **开放 issue**: 61 · **贡献者**: 6
+- **Star**: 551 · **Fork**: 15 · **开放 issue**: 61 · **贡献者**: 6
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install git-trim
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 2 | 0 | 1 | 0 | 14 |
-| last60d | 2026-09-25 | 0 | 2 | 0 | 1 | 0 | 14 |
-| 90d | 2026-08-26 | 0 | 2 | 0 | 1 | 0 | 14 |
-| last180d | 2026-05-28 | 0 | 2 | 0 | 1 | 0 | 14 |
-| 360d | 2025-11-29 | 0 | 2 | 0 | 1 | 0 | 14 |
-| last720d | 2024-12-04 | 0 | 4 | 0 | 1 | 2 | 25 |
+| 30d | 2026-10-26 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last60d | 2026-09-26 | 0 | 2 | 0 | 1 | 0 | 14 |
+| 90d | 2026-08-27 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last180d | 2026-05-29 | 0 | 2 | 0 | 1 | 0 | 14 |
+| 360d | 2025-11-30 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last720d | 2024-12-05 | 0 | 4 | 0 | 1 | 2 | 25 |
 
 ## Release 资产
 
@@ -70,15 +70,6 @@ x install git-trim
 | [git-trim-linux-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-linux-v0.4.3.tgz) | 2.2 MiB | `native/unknown` |
 | [git-trim-mac-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-mac-v0.4.3.tgz) | 1.3 MiB | `native/unknown` |
 | [git-trim-win-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-win-v0.4.3.tgz) | 1.4 MiB | `native/unknown` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/git-trim) 上共有 **9** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `0.4.4` | ✅ latest |
-| Nix unstable | `0.4.4` | ✅ latest |
 
 ## 改进这些数据
 
@@ -89,4 +80,4 @@ git-trim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:39:23Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:25:47Z._

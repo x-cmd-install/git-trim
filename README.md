@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 550 · **Forks**: 15 · **Open issues**: 61 · **Contributors**: 6
+- **Stars**: 551 · **Forks**: 15 · **Open issues**: 61 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 2 | 0 | 1 | 0 | 14 |
-| last60d | 2026-09-25 | 0 | 2 | 0 | 1 | 0 | 14 |
-| 90d | 2026-08-26 | 0 | 2 | 0 | 1 | 0 | 14 |
-| last180d | 2026-05-28 | 0 | 2 | 0 | 1 | 0 | 14 |
-| 360d | 2025-11-29 | 0 | 2 | 0 | 1 | 0 | 14 |
-| last720d | 2024-12-04 | 0 | 4 | 0 | 1 | 2 | 25 |
+| 30d | 2026-10-26 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last60d | 2026-09-26 | 0 | 2 | 0 | 1 | 0 | 14 |
+| 90d | 2026-08-27 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last180d | 2026-05-29 | 0 | 2 | 0 | 1 | 0 | 14 |
+| 360d | 2025-11-30 | 0 | 2 | 0 | 1 | 0 | 14 |
+| last720d | 2024-12-05 | 0 | 4 | 0 | 1 | 2 | 25 |
 
 ## Release assets
 
@@ -70,15 +70,6 @@ Lowest-scoring checks:
 | [git-trim-linux-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-linux-v0.4.3.tgz) | 2.2 MiB | `native/unknown` |
 | [git-trim-mac-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-mac-v0.4.3.tgz) | 1.3 MiB | `native/unknown` |
 | [git-trim-win-v0.4.3.tgz](https://github.com/foriequal0/git-trim/releases/download/v0.4.3/git-trim-win-v0.4.3.tgz) | 1.4 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/git-trim). **7** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.4.4` | ✅ latest |
-| Nix unstable | `0.4.4` | ✅ latest |
 
 ## Improve this data
 
@@ -89,4 +80,4 @@ Install metadata for git-trim lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:39:23Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:25:46Z._
